@@ -1,4 +1,4 @@
-Please go to https://drive.google.com/drive/folders/1wDnGIuui3wVgHS9sJ5cmvlANcLpULmTd?usp=sharing for the code. For any reason, I cannot download the code on GitHub (maybe because of the size).
+Please go to https://drive.google.com/drive/folders/1wDnGIuui3wVgHS9sJ5cmvlANcLpULmTd?usp=sharing for the code. For any reason, I cannot upload the code on GitHub (maybe because of the size).
 
 # Job service
 
